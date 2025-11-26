@@ -4,4 +4,4 @@
 ## Screenshots
 You can check out the project screenshots in the `screenshots` folder:
 
-![Screenshot 1](screenshots/Ekran_goruntu_2025-11-26_233121.png)
+![Screenshot](screenshots/s1.png)
